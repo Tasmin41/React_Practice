@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Tasmin",
+        "age":23,
+        "contact":"017354985730",
+        "address":"nuagau"
+    },
+    {
+        "name":"Fahim",
+        "age":24,
+        "contact":"017354985730",
+        "address":"Laharpur"
+    },
+    {
+        "name":"Imtiaaz",
+        "age":26,
+        "contact":"017354985730",
+        "address":"Dariapara"
+    },
+    {
+        "name":"Nishat",
+        "age":20,
+        "contact":"017354985730",
+        "address":"Mirabazr"
+    },
+    {
+        "name":"Riya",
+        "age":29,
+        "contact":"017354985730",
+        "address":"Tangail"
+    }
+]
